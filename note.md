@@ -20,4 +20,6 @@ remote
 - git merge {branch name} de match cac branch
 - git branch -d {branch name} de xoa branch
 - :q la tro lai
-- git push day len repo
+- git push {link repo} {ten branch} day len repo
+- git remote add {Alias vi du nhu origin} {link repo} de duong huong dan gio ten la origin => git push origin {ten branch}
+- git push -u origin dev de push branch
