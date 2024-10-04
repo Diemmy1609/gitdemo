@@ -2,6 +2,8 @@
 repository (repo): thu muc
 branch
 conflict
+local
+remote
 #commands
 - git init co the su dung duoc git sau khi dung cai lenh nay->git repo
 - git status cho thay trang thai du an cua minh
@@ -17,5 +19,5 @@ conflict
 - git checkout -b {branch name} tao ra 1 branch 
 - git merge {branch name} de match cac branch
 - git branch -d {branch name} de xoa branch
-
-#conflict
+- :q la tro lai
+- git push day len repo
