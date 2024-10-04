@@ -7,3 +7,6 @@ repository (repo): thu muc
 - git add . de lluu lai tat ca file
 - git reset de hoi lai
 - git commit de luu ()
++ git commit -m 'loi nhan'
+- git log de kiem tra lai
+- git log --oneline cung vay nhung gon hon
