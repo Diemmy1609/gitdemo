@@ -30,3 +30,5 @@ remote
 - merge: tao pull o git
 - de keo ve thi bam git pull
 //git ignore//
+de bo qua file bao mat
+//git fork//
