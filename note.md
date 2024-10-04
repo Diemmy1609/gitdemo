@@ -10,3 +10,8 @@ repository (repo): thu muc
 + git commit -m 'loi nhan'
 - git log de kiem tra lai
 - git log --oneline cung vay nhung gon hon
+- git checkout {branch name} de vao 1 branch
+- git branch kiem tra branch
+- git checkout -b {branch name} tao ra 1 branch 
+- git merge {branch name} de match cac branch
+- git branch -d {branch name} de xoa branch
